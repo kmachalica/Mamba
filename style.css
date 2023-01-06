@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#container
+{
+    margin: 30px auto;
+    width:700px;
+    height: 500px;
+    background-color: #555;
+}
+
+body{
+    background-color: #111;
+}
