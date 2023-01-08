@@ -10,8 +10,26 @@
     width:700px;
     height: 500px;
     background-color: #555;
+    position: relative;
+    color: #1a7e10;
+}
+#playground
+{
+    background-color: #999;
+    width: 650px;
+    height: 450px;
+    position: absolute;
+    left: 25px;
+    top: 25px;
 }
 
 body{
     background-color: #111;
+}
+.snakeTile
+{
+    background-color: green;
+    width: 5px;
+    height: 5px;
+    position: absolute;
 }
